@@ -6,3 +6,5 @@ The above Mentioned code in HTML , CSS , JavaScript.
 2. DoubleClick on the saved html file , it will display output.
 
 OUTPUT :-
+
+<img width="1920" height="969" alt="Image" src="https://github.com/user-attachments/assets/a095c486-bf2a-42cc-bc8b-b8860a80967b" />
